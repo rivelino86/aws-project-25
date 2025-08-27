@@ -22,5 +22,3 @@ sudo wget -O dev.zip https://github.com/kserge2001/web-consulting/archive/refs/h
 sudo unzip -o dev.zip
 sudo cp -r /opt/web-consulting-dev/* /var/www/html/
 sudo chown -R apache:apache /var/www/html
-
-
